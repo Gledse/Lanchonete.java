@@ -1,2 +1,2 @@
 # My_Projects
- Esse repositorio contem alguns projectos meus
+ Projecto Lanchonete usando Java
